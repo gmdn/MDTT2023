@@ -1,0 +1,54 @@
+
+    <termEntry id="c1">
+    <descrip type="subjectField">e-mobility</descrip>
+
+      <langSet xml:lang="en">
+        <tig>
+          <term>carsharing</term>
+          <termNote type="partOfSpeech">noun</termNote>
+          <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          <xref type="xSource">https://en.wikipedia.org/wiki/Carsharing</xref>
+        </tig>
+
+        <tig>
+          <term>car sharing</term>
+          <termNote type="partOfSpeech">noun</termNote>
+          <note>terminological variant in AU, NZ, CA, TH, and US</note>
+        </tig>
+
+        <tig>
+          <term>car clubs</term>
+          <termNote type="partOfSpeech">noun</termNote>
+          <note>terminological variant in UK</note>
+        </tig>
+      </langSet>
+
+      <langSet xml:lang="fr">
+        <tig>
+          <term>autopartage</term>
+          <termNote type="partOfSpeech">noun</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          <xref type="xSource">https://fr.wikipedia.org/wiki/Autopartage</xref>
+          <note>Il faut distinguer le terme analysé de "service de partage de véhicules" et "partage de véhicules".
+            Ces derniers sont souvent utilisés comme synonymes, mais il s'agit en réalité de concepts plus généraux qui englobent
+            tous les types de véhicules, tandis que l'autopartage ne concerne que les voitures.</note>
+        </tig>
+
+        <tig>
+          <term>voitures en libre-service</term>
+          <termNote type="partOfSpeech">noun</termNote>
+        </tig>
+        </langSet>
+
+        <langSet xml:lang="it">
+          <tig>
+            <term>car sharing</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <xref type="xSource">https://it.wikipedia.org/wiki/Car_sharing</xref>
+            <note>Generalmente in italiano si utilizza l'anglicismo sebbene la variante "auto condivisa" sia attestata.</note>
+          </tig>
+
+          </langSet>
+
+    </termEntry>
