@@ -17,13 +17,13 @@
 				<transacGrp>
 					<basic:transactionType>origination</basic:transactionType>
 					<date>2022-11-10</date>
-					<basic:responsibility>Federica Vezzani</basic:responsibility>
+					<basic:responsibility>User 2</basic:responsibility>
 				</transacGrp>
 
 				<transacGrp>
 					<basic:transactionType>modification</basic:transactionType>
 					<date>2022-11-11</date>
-					<basic:responsibility>Andrea Bellandi</basic:responsibility>
+					<basic:responsibility>User 1</basic:responsibility>
 				</transacGrp>
 
 				<min:subjectField>e-mobility</min:subjectField>

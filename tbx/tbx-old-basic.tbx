@@ -4,13 +4,13 @@
 				<transacGrp>
 					<transac type="transactionType">origination</transac>
 					<date>2022-11-10</date>
-					<transacNote type="responsibility">Federica Vezzani</transacNote>
+					<transacNote type="responsibility">User 2</transacNote>
 				</transacGrp>
 
 				<transacGrp>
 					<transac type="transactionType">modification</transac>
 					<date>2022-11-11</date>
-					<transacNote type="responsibility">Andrea Bellandi</transacNote>
+					<transacNote type="responsibility">User 1</transacNote>
 				</transacGrp>
 
 				<descrip type="subjectField">e-mobility</descrip>
